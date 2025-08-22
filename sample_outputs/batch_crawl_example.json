@@ -1,0 +1,137 @@
+{
+  "crawl_info": {
+    "state": "CA",
+    "timestamp": "2024-12-15T16:45:30.987654",
+    "total_sites": 3,
+    "successful_crawls": 3,
+    "student_name": "Example Student"
+  },
+  "results": [
+    {
+      "url": "https://www.acphd.org",
+      "timestamp": "2024-12-15T16:45:31.123456",
+      "county": "Alameda",
+      "department_name": "Alameda County Public Health Department", 
+      "population": "1671329",
+      "crawled_at": "2024-12-15T16:45:31.123456",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "510-267-8000", 
+          "tags": ["general"],
+          "context": "main contact",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1000 San Leandro Blvd, San Leandro, CA 94577",
+          "tags": ["general"],
+          "context": "main office",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY", 
+          "type": "facility_name",
+          "value": "Alameda County Medical Center",
+          "tags": ["hospital"],
+          "context": "main facility",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "url": "https://cchealth.org", 
+      "timestamp": "2024-12-15T16:45:35.234567",
+      "county": "Contra Costa",
+      "department_name": "Contra Costa Health Services",
+      "population": "1165927", 
+      "crawled_at": "2024-12-15T16:45:35.234567",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "925-313-6740",
+          "tags": ["general"],
+          "context": "main contact", 
+          "confidence": 0.9
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number", 
+          "value": "925-313-6800",
+          "tags": ["vaccination", "covid19"],
+          "context": "COVID vaccine appointments",
+          "confidence": 0.8
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1340 Arnold Dr, Martinez, CA 94553", 
+          "tags": ["general"],
+          "context": "main office location",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Contra Costa Regional Medical Center",
+          "tags": ["hospital", "emergency"],
+          "context": "county hospital",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "url": "http://publichealth.lacounty.gov",
+      "timestamp": "2024-12-15T16:45:39.345678", 
+      "county": "Los Angeles",
+      "department_name": "Los Angeles County Department of Public Health",
+      "population": "10014009",
+      "crawled_at": "2024-12-15T16:45:39.345678",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "213-240-8117",
+          "tags": ["general"], 
+          "context": "main information line",
+          "confidence": 0.9
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "211",
+          "tags": ["crisis_services", "mental_health"],
+          "context": "crisis support line",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address", 
+          "value": "313 N Figueroa St, Los Angeles, CA 90012",
+          "tags": ["general"],
+          "context": "headquarters address",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Los Angeles County-USC Medical Center", 
+          "tags": ["hospital", "emergency", "trauma"],
+          "context": "county medical center",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "LAC+USC Urgent Care Center",
+          "tags": ["urgent_care", "clinic"],
+          "context": "urgent care facility",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ]
+}

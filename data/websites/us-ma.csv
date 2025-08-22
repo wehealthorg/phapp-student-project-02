@@ -1,0 +1,374 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Oak Bluffs;us-ma;us-ma-oak-bluffs;Town;TRUE;5327;MA;https://www.oakbluffsma.gov/168/Board-of-Health
+Barnstable County;us-ma;us-ma-barnstable;County;TRUE;212990;MA;
+Berkshire County;us-ma;us-ma-berkshire;County;TRUE;124944;MA;
+Bristol County;us-ma;us-ma-bristol;County;TRUE;565217;MA;
+Dukes County;us-ma;us-ma-dukes;County;TRUE;17332;MA;
+Essex County;us-ma;us-ma-essex;County;TRUE;789034;MA;
+Franklin County;us-ma;us-ma-franklin;County;TRUE;70180;MA;
+Hampden County;us-ma;us-ma-hampden;County;TRUE;466372;MA;
+Hampshire County;us-ma;us-ma-hampshire;County;TRUE;160830;MA;
+Middlesex County;us-ma;us-ma-middlesex;County;TRUE;1611699;MA;
+Nantucket County;us-ma;us-ma-nantucket;County;TRUE;11399;MA;
+Norfolk County;us-ma;us-ma-norfolk;County;TRUE;706775;MA;
+Plymouth County;us-ma;us-ma-plymouth;County;TRUE;521202;MA;
+Suffolk County;us-ma;us-ma-suffolk;County;TRUE;803907;MA;
+Worcester County;us-ma;us-ma-worcester;County;TRUE;830622;MA;
+Abington;us-ma;us-ma-abington;Town;TRUE;17003;MA;
+Adams;us-ma;us-ma-adams;Town;TRUE;8149;MA;
+Agawam;us-ma;us-ma-agawam;Town;TRUE;28606;MA;
+Amherst;us-ma;us-ma-amherst;Town;TRUE;;MA;http://www.amherstma.gov/65
+Andover;us-ma;us-ma-andover;Town;TRUE;36389;MA;https://andoverma.gov/162/Health
+Arlington;us-ma;us-ma-arlington;Town;TRUE;45906;MA;
+Athol;us-ma;us-ma-athol;Town;TRUE;11921;MA;
+Attleboro;us-ma;us-ma-attleboro;City;TRUE;46384;MA;http://www.ci.attleboro.ma.us
+Ayer;us-ma-nashoba;us-ma-ayer;Town;TRUE;8408;MA;https://www.ayer.ma.us/board-health
+Barnstable;us-ma;us-ma-barnstable-city;Town;TRUE;48922;MA;
+Barre;us-ma;us-ma-barre;Town;TRUE;5531;MA;https://www.townofbarre.com/health
+Belchertown;us-ma-quabbin;us-ma-belchertown;Town;TRUE;15304;MA;http://www.belchertown.org
+Bellingham;us-ma;us-ma-bellingham;Town;TRUE;17025;MA;
+Belmont;us-ma;us-ma-belmont;Town;TRUE;26997;MA;
+Beverly;us-ma;us-ma-beverly;City;TRUE;42414;MA;
+Blandford;us-ma;us-ma-blandford;Town;TRUE;1052;MA;https://townofblandford.com/boards-committees/board-of-health/
+Boston;us-ma;us-ma-boston;City;TRUE;665945;MA;http://www.bphc.org
+Bourne;us-ma;us-ma-bourne;Town;TRUE;20455;MA;https://www.townofbourne.com/health
+Boxford;us-ma;us-ma-boxford;Town;TRUE;8168;MA;
+Braintree;us-ma;us-ma-braintree;Town;TRUE;38748;MA;
+Brewster;us-ma;us-ma-brewster;Town;TRUE;10341;MA;
+Bridgewater;us-ma;us-ma-bridgewater;Town;TRUE;28531;MA;
+Brockton;us-ma;us-ma-brockton;City;TRUE;104713;MA;
+Brookfield;us-ma;us-ma-brookfield;Town;TRUE;3443;MA;http://www.brookfieldma.us
+Brookline;us-ma;us-ma-brookline;Town;TRUE;62698;MA;http://www.brooklinema.gov
+Burlington;us-ma;us-ma-burlington;Town;TRUE;26169;MA;
+Cambridge;us-ma;us-ma-cambridge;City;TRUE;117962;MA;http://www.cambridgepublichealth.org
+Chatham;us-ma;us-ma-chatham;Town;TRUE;6607;MA;
+Chelsea;us-ma;us-ma-chelsea;City;TRUE;39890;MA;http://www.chelseama.gov
+Cheshire;us-ma;us-ma-cheshire;Town;TRUE;3239;MA;
+Chester;us-ma;us-ma-chester;Town;TRUE;1403;MA;
+Chicopee;us-ma;us-ma-chicopee;City;TRUE;55441;MA;https://www.chicopeema.gov/261/Health-Department
+Clinton;us-ma;us-ma-clinton;Town;TRUE;15347;MA;
+Danvers;us-ma;us-ma-danvers;Town;TRUE;27910;MA;https://ma-reading.civicplus.com/207/Public-Health-Department
+Dedham;us-ma;us-ma-dedham;Town;TRUE;25150;MA;http://www.dedham-ma.gov/index.cfm?pid=11783
+Deerfield;us-ma;us-ma-deerfield;Town;TRUE;5125;MA;
+Dennis;us-ma;us-ma-dennis;Town;TRUE;14742;MA;http://www.town.dennis.ma.us
+Devens;us-ma-nashoba;us-ma-devens;City;;1763;MA;
+Dover;us-ma;us-ma-dover;Town;TRUE;5886;MA;https://www.doverma.gov/171/Board-of-Health
+Duxbury;us-ma;us-ma-duxbury;Town;TRUE;16041;MA;http://www.town.duxbury.ma.us
+East Brookfield;us-ma;us-ma-east-brookfield;Town;TRUE;2120;MA;
+Edgartown;us-ma;us-ma-edgartown;Town;TRUE;5159;MA;
+Essex;us-ma;us-ma-essex-town;Town;TRUE;3674;MA;http://www.essexma.org
+Everett;us-ma;us-ma-everett;City;TRUE;48685;MA;http://www.ci.everett.ma.us
+Fall River;us-ma;us-ma-fall-river;City;TRUE;93638;MA;http://www.fallriverma.org/health/health_main.asp
+Falmouth;us-ma;us-ma-falmouth;Town;TRUE;32694;MA;
+Fitchburg;us-ma;us-ma-fitchburg;City;TRUE;41621;MA;http://ci.fitchburg.ma.us
+Foxborough;us-ma;us-ma-foxborough;Town;TRUE;18476;MA;
+Framingham;us-ma;us-ma-framingham;City;TRUE;71805;MA;http://www.framinghamma.gov
+Franklin;us-ma;us-ma-franklin-town;Town;;;MA;http://franklinma.virtualtownhall.net/Pages/FranklinMA_Health/index
+Gardner;us-ma;us-ma-gardner;City;TRUE;21090;MA;
+Gloucester;us-ma;us-ma-gloucester;City;TRUE;29830;MA;http://www.gloucester-ma.gov
+Granby;us-ma;us-ma-granby;Town;TRUE;6096;MA;
+Great Barrington;us-ma;us-ma-great-barrington;Town;TRUE;7184;MA;http://www.townofgb.org/Pages/GBarringtonMA_Health/index
+Greenfield;us-ma;us-ma-greenfield;City;TRUE;;MA;http://www.greenfield-ma.gov
+Groton;us-ma-nashoba;us-ma-groton;Town;TRUE;11254;MA;http://townofgroton.org
+Hanson;us-ma;us-ma-hanson;Town;TRUE;10619;MA;
+Hatfield;us-ma;us-ma-hatfield;Town;TRUE;3328;MA;http://www.townofhatfield.org
+Haverhill;us-ma;us-ma-haverhill;City;TRUE;67273;MA;http://www.ci.haverhill.ma.us
+Hingham;us-ma;us-ma-hingham;Town;TRUE;24143;MA;http://www.hingham-ma.gov/health/index.html
+Holbrook;us-ma;us-ma-holbrook;Town;TRUE;11338;MA;
+Holland;us-ma;us-ma-holland;Town;TRUE;2585;MA;
+Holyoke;us-ma;us-ma-holyoke;City;TRUE;38210;MA;http://www.holyoke.org
+Hopedale;us-ma;us-ma-hopedale;Town;TRUE;6021;MA;
+Hopkinton;us-ma;us-ma-hopkinton;Town;TRUE;18748;MA;
+Hudson;us-ma;us-ma-hudson;Town;TRUE;19947;MA;http://hudsonhealthdept.org
+Hull;us-ma;us-ma-hull;Town;TRUE;10116;MA;http://town.hull.ma.us
+Huntington;us-ma;us-ma-huntington;Town;TRUE;2328;MA;
+Ipswich;us-ma;us-ma-ipswich;Town;TRUE;13791;MA;http://ipswichma.gov
+Kingston;us-ma;us-ma-kingston;Town;TRUE;13702;MA;https://www.kingstonmass.org/health
+Lawrence;us-ma;us-ma-lawrence;City;TRUE;88067;MA;
+Lee;us-ma-tri-town;us-ma-lee;Town;;5765;MA;
+Lenox;us-ma-tri-town;us-ma-lenox;Town;TRUE;5083;MA;
+Leominster;us-ma;us-ma-leominster;City;TRUE;43620;MA;https://www.leominster-ma.gov/depts/safety/health/default.asp
+Lexington;us-ma;us-ma-lexington;Town;TRUE;34221;MA;https://www.lexingtonma.gov/public-health
+Longmeadow;us-ma;us-ma-longmeadow;Town;TRUE;15789;MA;
+Lowell;us-ma;us-ma-lowell;City;TRUE;114737;MA;https://www.lowellma.gov/275/Health
+Lunenburg;us-ma-nashoba;us-ma-lunenburg;Town;TRUE;11735;MA;
+Lynn;us-ma;us-ma-lynn;City;TRUE;100653;MA;
+Lynnfield;us-ma;us-ma-lynnfield;Town;TRUE;12925;MA;
+Malden;us-ma;us-ma-malden;City;TRUE;65463;MA;
+Marblehead;us-ma;us-ma-marblehead;Town;TRUE;20350;MA;
+Marlborough;us-ma;us-ma-marlborough;City;TRUE;41391;MA;
+Marshfield;us-ma;us-ma-marshfield;Town;TRUE;25782;MA;
+Maynard;us-ma;us-ma-maynard;Town;TRUE;10671;MA;
+Medfield;us-ma;us-ma-medfield;Town;TRUE;12844;MA;https://www.town.medfield.net/269/Board-of-Health
+Medford;us-ma;us-ma-medford;City;TRUE;61748;MA;
+Melrose;us-ma;us-ma-melrose;City;TRUE;29477;MA;
+Milford;us-ma;us-ma-milford;Town;TRUE;30202;MA;
+Milton;us-ma;us-ma-milton;Town;TRUE;28450;MA;
+Nahant;us-ma;us-ma-nahant;Town;TRUE;3336;MA;https://nahant.org/publichealth/
+Nantucket;us-ma;us-ma-nantucket-town;Town;TRUE;14065;MA;http://www.nantucket-ma.gov
+Needham;us-ma;us-ma-needham;Town;TRUE;31957;MA;http://www.needhamma.gov/publichealth
+New Bedford;us-ma;us-ma-new-bedford;City;TRUE;100620;MA;http://www.ci.new-bedford.ma.us
+Newburyport;us-ma;us-ma-newburyport;City;TRUE;18356;MA;http://www.cityofnewburyport.com
+Newton;us-ma;us-ma-newton;City;TRUE;88453;MA;https://www.newtonma.gov/government/health-human-services/public-health
+North Adams;us-ma;us-ma-north-adams;City;TRUE;12937;MA;http://www.northadams-ma.gov
+Northampton;us-ma;us-ma-northampton;City;TRUE;28245;MA;http://www.northamptonma.gov/245/Health
+North Attleborough;us-ma;us-ma-north-attleborough;Town;TRUE;;MA;
+Northborough;us-ma;us-ma-northborough;Town;TRUE;15647;MA;http://www.town.northborough.ma.us/Pages/NorthboroughMA_BOH/index
+North Brookfield;us-ma;us-ma-north-brookfield;Town;TRUE;4750;MA;
+Norwood;us-ma;us-ma-norwood;Town;TRUE;31343;MA;http://www.norwoodma.gov/departments/health/index.php
+Orange;us-ma;us-ma-orange;Town;TRUE;7584;MA;
+Orleans;us-ma;us-ma-orleans;Town;TRUE;6322;MA;http://www.town.orleans.ma.us
+Oxford;us-ma;us-ma-oxford-town;Town;TRUE;13369;MA;http://www.town.oxford.ma.us
+Palmer;us-ma;us-ma-palmer;Town;TRUE;12422;MA;http://www.townofpalmer.com/Pages/PalmerMA_Health/index
+Peabody;us-ma;us-ma-peabody;City;TRUE;54204;MA;
+Pepperell;us-ma-nashoba;us-ma-pepperell;Town;TRUE;11625;MA;http://town.pepperell.ma.us
+Petersham;us-ma;us-ma-petersham;Town;TRUE;1177;MA;
+Pittsfield;us-ma;us-ma-pittsfield;City;TRUE;43730;MA;
+Plymouth;us-ma;us-ma-plymouth-town;Town;TRUE;61628;MA;http://www.plymouth-ma.gov
+Provincetown;us-ma;us-ma-provincetown;Town;TRUE;3630;MA;http://www.provincetowngov.org
+Quincy;us-ma;us-ma-quincy;City;TRUE;100981;MA;http://www.quincyma.gov
+Randolph;us-ma;us-ma-randolph;Town;TRUE;34691;MA;
+Reading;us-ma;us-ma-reading;Town;TRUE;25415;MA;http://www.readingma.gov/public-health-services
+Revere;us-ma;us-ma-revere;City;TRUE;60577;MA;
+Rockport;us-ma;us-ma-rockport;Town;TRUE;6973;MA;
+Rowley;us-ma;us-ma-rowley;Town;TRUE;6175;MA;http://www.town.rowley.ma.us
+Russell;us-ma;us-ma-russell;Town;TRUE;1339;MA;http://www.townofrussell.us/
+Rutland;us-ma;us-ma-rutland;Town;TRUE;9102;MA;
+Salem;us-ma;us-ma-salem;City;TRUE;44541;MA;
+Salisbury;us-ma;us-ma-salisbury;Town;TRUE;9182;MA;
+Sandwich;us-ma;us-ma-sandwich;Town;TRUE;20419;MA;
+Saugus;us-ma;us-ma-saugus;Town;TRUE;28566;MA;
+Scituate;us-ma;us-ma-scituate;Town;TRUE;19069;MA;
+Sharon;us-ma;us-ma-sharon;Town;TRUE;18473;MA;https://www.townofsharon.net/health-department
+Shirley;us-ma-nashoba;us-ma-shirley;Town;TRUE;7092;MA;http://www.shirley-ma.gov
+Somerset;us-ma;us-ma-somerset;Town;TRUE;18266;MA;http://www.somersetmass.com
+Somerville;us-ma;us-ma-somerville;City;TRUE;80464;MA;http://www.somervillema.gov/departments/health
+Southbridge;us-ma;us-ma-southbridge;Town;TRUE;17669;MA;http://www.ci.southbridge.ma.us/BoardHealth.html
+Spencer;us-ma;us-ma-spencer;Town;TRUE;11955;MA;
+Springfield;us-ma;us-ma-springfield;City;TRUE;155305;MA;https://www.springfield-ma.gov/hhs/
+Stoneham;us-ma;us-ma-stoneham;Town;TRUE;22992;MA;
+Sturbridge;us-ma;us-ma-sturbridge;Town;TRUE;9842;MA;https://www.sturbridge.gov/board-health
+Swampscott;us-ma;us-ma-swampscott;Town;TRUE;15125;MA;
+Taunton;us-ma;us-ma-taunton;City;TRUE;59436;MA;
+Topsfield;us-ma;us-ma-topsfield;Town;TRUE;6532;MA;https://www.topsfield-ma.gov/health-department
+Townsend;us-ma-nashoba;us-ma-townsend;Town;TRUE;9070;MA;https://www.townsendma.gov/board-health
+Upton;us-ma;us-ma-upton;Town;TRUE;8037;MA;https://www.uptonma.gov/board-health
+Wakefield;us-ma;us-ma-wakefield;Town;TRUE;27054;MA;
+Walpole;us-ma;us-ma-walpole;Town;TRUE;26317;MA;http://www.walpole-ma.gov
+Waltham;us-ma;us-ma-waltham;City;TRUE;64711;MA;
+Ware;us-ma-quabbin;us-ma-ware;Town;;10162;MA;
+Warren;us-ma;us-ma-warren;Town;TRUE;4985;MA;
+Webster;us-ma;us-ma-webster;Town;TRUE;17671;MA;
+Wellesley;us-ma;us-ma-wellesley;Town;TRUE;29862;MA;http://www.wellesleyma.gov
+Westborough;us-ma;us-ma-westborough;Town;TRUE;21360;MA;http://www.gis.net/~westboh
+West Brookfield;us-ma;us-ma-west-brookfield;Town;TRUE;3823;MA;
+Westfield;us-ma;us-ma-westfield;City;TRUE;40794;MA;https://www.cityofwestfield.org/166/Health
+West Springfield;us-ma;us-ma-west-springfield;Town;TRUE;28755;MA;http://www.west-springfield.ma.us
+Weymouth;us-ma;us-ma-weymouth;Town;TRUE;57300;MA;http://www.weymouth.ma.us/health
+Wilbraham;us-ma;us-ma-wilbraham;Town;TRUE;14595;MA;http://www.wilbraham-ma.gov/Pages/WilbrahamMA_BComm/boh
+Williamstown;us-ma;us-ma-williamstown;Town;TRUE;7630;MA;http://williamstownma.gov
+Wilmington;us-ma;us-ma-wilmington;Town;TRUE;23191;MA;http://www.healthywilmingtoncoalition.org/boh/
+Winchendon;us-ma;us-ma-winchendon;Town;TRUE;10372;MA;http://www.townofwinchendon.com/index.html
+Winchester;us-ma;us-ma-winchester;Town;TRUE;22809;MA;http://www.winchestermass.org/healthdept.html
+Winthrop;us-ma;us-ma-winthrop;Town;TRUE;19031;MA;http://www.town.winthrop.ma.us
+Woburn;us-ma;us-ma-woburn;City;TRUE;40992;MA;http://woburnma.gov
+Worcester;us-ma-cmrpha;us-ma-worcester-city;City;TRUE;204191;MA;http://www.ci.worcester.ma.us
+Freetown;us-ma;us-ma-freetown;Town;TRUE;9199;MA;
+Aquinnah;us-ma;us-ma-aquinnah;Town;TRUE;708;MA;
+Georgetown;us-ma;us-ma-georgetown;Town;TRUE;8455;MA;
+Gill;us-ma;us-ma-gill;Town;TRUE;1747;MA;
+Goshen;us-ma;us-ma-goshen;Town;TRUE;890;MA;http://www.goshen-ma.us/home/departments/board-of-health
+Gosnold;us-ma;us-ma-gosnold;Town;TRUE;38;MA;
+Ashburnham;us-ma-nashoba;us-ma-ashburnham;Town;TRUE;6337;MA;https://www.ashburnham-ma.gov/board-health
+Grafton;us-ma-cmrpha;us-ma-grafton;Town;TRUE;19650;MA;https://www.grafton-ma.gov/board-health/pages/board-health-services
+Granville;us-ma;us-ma-granville;Town;TRUE;1686;MA;http://townofgranville.org
+Groveland;us-ma;us-ma-groveland;Town;TRUE;6742;MA;
+Hadley;us-ma;us-ma-hadley;Town;TRUE;5295;MA;http://www.hadleyma.org
+Halifax;us-ma;us-ma-halifax;Town;TRUE;7728;MA;
+Hamilton;us-ma;us-ma-hamilton;Town;TRUE;7586;MA;
+Ashby;us-ma-nashoba;us-ma-ashby;Town;TRUE;3187;MA;https://ci.ashby.ma.us/departments/board-of-health/
+Hampden;us-ma;us-ma-hampden-town;Town;TRUE;4966;MA;
+Hancock;us-ma;us-ma-hancock-town;Town;TRUE;772;MA;
+Hanover;us-ma;us-ma-hanover;Town;TRUE;14773;MA;
+Hardwick;us-ma;us-ma-hardwick;Town;TRUE;2694;MA;https://www.townofhardwick.com/BoardOfHealth.html
+Harvard;us-ma-nashoba;us-ma-harvard;Town;TRUE;6835;MA;http://harvard.ma.us
+Harwich;us-ma;us-ma-harwich;Town;TRUE;13440;MA;
+Hawley;us-ma;us-ma-hawley;Town;TRUE;374;MA;
+Ashfield;us-ma;us-ma-ashfield;Town;TRUE;1838;MA;
+Heath;us-ma;us-ma-heath;Town;TRUE;719;MA;
+Hinsdale;us-ma;us-ma-hinsdale;Town;TRUE;1791;MA;
+Holden;us-ma;us-ma-holden;Town;TRUE;19783;MA;https://www.holdenma.gov/health-departmentboard-of-health
+Holliston;us-ma;us-ma-holliston;Town;TRUE;14902;MA;
+Ashland;us-ma;us-ma-ashland;Town;TRUE;18634;MA;
+Hubbardston;us-ma;us-ma-hubbardston;Town;TRUE;4338;MA;http://www.hubbardstonma.us
+Lakeville;us-ma;us-ma-lakeville;Town;TRUE;11625;MA;
+Lancaster;us-ma-nashoba;us-ma-lancaster;Town;TRUE;8395;MA;
+Lanesborough;us-ma;us-ma-lanesborough;Town;TRUE;3037;MA;https://www.lanesborough-ma.gov/board-health
+Leicester;us-ma;us-ma-leicester;Town;TRUE;11066;MA;https://www.leicesterma.org/development-inspectional-services/board-health
+Leverett;us-ma;us-ma-leverett;Town;TRUE;1793;MA;https://leverett.ma.us/g/72/Board-of-Health
+Leyden;us-ma;us-ma-leyden;Town;TRUE;640;MA;
+Lincoln;us-ma;us-ma-lincoln-town;Town;TRUE;6928;MA;http://www.lincolntown.org
+Littleton;us-ma-nashoba;us-ma-littleton;Town;TRUE;10084;MA;
+Ludlow;us-ma;us-ma-ludlow;Town;TRUE;20883;MA;http://www.ludlow.ma.us
+Manchester-by-the-Sea;us-ma;us-ma-manchester-by-the-sea;Town;TRUE;5386;MA;http://manchester.ma.us/337/Board-of-Health
+Mansfield;us-ma;us-ma-mansfield;Town;TRUE;23831;MA;https://www.mansfieldma.com/217/Public-Health-Department
+Marion;us-ma;us-ma-marion;Town;TRUE;5305;MA;
+Auburn;us-ma;us-ma-auburn;Town;TRUE;16849;MA;http://auburnguide.com
+Mashpee;us-ma;us-ma-mashpee;Town;TRUE;15144;MA;
+Mattapoisett;us-ma;us-ma-mattapoisett;Town;TRUE;6511;MA;
+Medway;us-ma;us-ma-medway;Town;TRUE;13164;MA;
+Mendon;us-ma;us-ma-mendon;Town;TRUE;6238;MA;http://www.mendonma.net/depts/pages/municipal-pages/boards-and-committees/board-of-health.php
+Avon;us-ma;us-ma-avon;Town;TRUE;4730;MA;https://www.avon-ma.gov/health
+Merrimac;us-ma;us-ma-merrimac;Town;TRUE;6717;MA;
+Middleborough;us-ma;us-ma-middleborough;Town;TRUE;24268;MA;https://www.middleboroughma.gov/179/Health-Department
+Middlefield;us-ma;us-ma-middlefield;Town;TRUE;319;MA;https://middlefieldma.net/?page_id=59
+Middleton;us-ma;us-ma-middleton;Town;TRUE;9668;MA;http://www.middletonma.gov
+Millbury;us-ma;us-ma-millbury;Town;TRUE;13852;MA;https://www.millburyma.gov/board-health
+Millis;us-ma;us-ma-millis;Town;TRUE;8565;MA;
+Millville;us-ma;us-ma-millville;Town;TRUE;3176;MA;
+Monroe;us-ma;us-ma-monroe;Town;TRUE;103;MA;
+Monson;us-ma;us-ma-monson;Town;TRUE;8159;MA;
+Montague;us-ma;us-ma-montague;Town;TRUE;8527;MA;http://www.montague.net
+Monterey;us-ma;us-ma-monterey;Town;TRUE;983;MA;
+Montgomery;us-ma;us-ma-montgomery;Town;TRUE;877;MA;
+Mount Washington;us-ma;us-ma-mount-washington;Town;TRUE;188;MA;
+Natick;us-ma;us-ma-natick;Town;TRUE;36589;MA;http://townofnatick.com
+Acton;us-ma;us-ma-acton;Town;TRUE;23864;MA;
+New Ashford;us-ma;us-ma-new-ashford;Town;TRUE;262;MA;
+New Braintree;us-ma;us-ma-new-braintree;Town;TRUE;984;MA;https://www.newbraintreema.us/
+New Marlborough;us-ma;us-ma-new-marlborough;Town;TRUE;1550;MA;
+New Salem;us-ma;us-ma-new-salem;Town;TRUE;1074;MA;
+Newbury;us-ma;us-ma-newbury;Town;TRUE;6723;MA;
+Norfolk;us-ma;us-ma-norfolk-town;Town;TRUE;11527;MA;http://www.virtualnorfolk.org/boards-committees/board-of-health/
+North Andover;us-ma;us-ma-north-andover;Town;TRUE;30847;MA;http://www.townofnorthandover.com/Pages/NAndoverMA_Health/index
+North Reading;us-ma;us-ma-north-reading;Town;TRUE;15529;MA;
+Northbridge;us-ma;us-ma-northbridge;Town;TRUE;16303;MA;http://www.northbridgemass.org/board-of-health
+Norton;us-ma;us-ma-norton;Town;TRUE;19177;MA;https://www.nortonma.org/board-health
+Norwell;us-ma;us-ma-norwell;Town;TRUE;11281;MA;http://www.townofnorwell.net
+Becket;us-ma;us-ma-becket;Town;TRUE;2105;MA;
+Oakham;us-ma;us-ma-oakham;Town;TRUE;1585;MA;http://www.oakham-ma.gov/boards/health.cfm
+Otis;us-ma;us-ma-otis;Town;TRUE;1478;MA;
+Paxton;us-ma;us-ma-paxton;Town;TRUE;5013;MA;
+Bedford;us-ma;us-ma-bedford;Town;TRUE;14273;MA;
+Pelham;us-ma-quabbin;us-ma-pelham;Town;;1315;MA;
+Pembroke;us-ma;us-ma-pembroke;Town;TRUE;18330;MA;http://www.pembrokepolice.org/health.htm
+Peru;us-ma;us-ma-peru;Town;TRUE;670;MA;
+Phillipston;us-ma;us-ma-phillipston;Town;TRUE;1918;MA;
+Plainfield;us-ma;us-ma-plainfield;Town;TRUE;618;MA;
+Plainville;us-ma;us-ma-plainville;Town;TRUE;9814;MA;http://www.plainville.ma.us
+Plympton;us-ma;us-ma-plympton;Town;TRUE;2923;MA;https://www.town.plympton.ma.us/board-of-health
+Princeton;us-ma;us-ma-princeton;Town;TRUE;3497;MA;
+Raynham;us-ma;us-ma-raynham;Town;TRUE;15124;MA;
+Rehoboth;us-ma;us-ma-rehoboth;Town;TRUE;12614;MA;
+Richmond;us-ma;us-ma-richmond;Town;TRUE;1435;MA;
+Rochester;us-ma;us-ma-rochester;Town;TRUE;5727;MA;
+Rockland;us-ma;us-ma-rockland;Town;TRUE;17721;MA;
+Rowe;us-ma;us-ma-rowe;Town;TRUE;447;MA;
+Royalston;us-ma;us-ma-royalston;Town;TRUE;1455;MA;
+Sandisfield;us-ma;us-ma-sandisfield;Town;TRUE;960;MA;
+Savoy;us-ma;us-ma-savoy;Town;TRUE;620;MA;http://www.townofsavoy.org
+Seekonk;us-ma;us-ma-seekonk;Town;TRUE;15475;MA;
+Sheffield;us-ma;us-ma-sheffield;Town;TRUE;3312;MA;http://www.town.sheffield.ma.us/health.htm
+Shelburne;us-ma;us-ma-shelburne;Town;TRUE;1407;MA;
+Sherborn;us-ma;us-ma-sherborn;Town;TRUE;4404;MA;https://ma-sherborn.civicplus.com/176/Board-of-Health
+Berkley;us-ma;us-ma-berkley;Town;TRUE;6768;MA;https://www.townofberkleyma.com/board-health
+Shrewsbury;us-ma-cmrpha;us-ma-shrewsbury;Town;TRUE;38734;MA;https://shrewsburyma.gov/240/Health-Department
+South Hadley;us-ma;us-ma-south-hadley;Town;TRUE;17115;MA;
+Southampton;us-ma;us-ma-southampton;Town;TRUE;6185;MA;
+Southborough;us-ma;us-ma-southborough;Town;TRUE;10421;MA;http://southboroughma.com
+Southwick;us-ma;us-ma-southwick;Town;TRUE;9244;MA;https://www.southwickma.org/board-health
+Berlin;us-ma-nashoba;us-ma-berlin;Town;TRUE;3514;MA;https://www.townofberlin.com/board-health
+Sterling;us-ma;us-ma-sterling;Town;TRUE;8053;MA;
+Stockbridge;us-ma-tri-town;us-ma-stockbridge;Town;;1933;MA;
+Stoughton;us-ma;us-ma-stoughton;Town;TRUE;29051;MA;
+Stow;us-ma-nashoba;us-ma-stow;Town;TRUE;7111;MA;
+Sudbury;us-ma;us-ma-sudbury;Town;TRUE;18926;MA;http://www.town.sudbury.ma.us
+Sunderland;us-ma;us-ma-sunderland;Town;TRUE;3658;MA;
+Bernardston;us-ma;us-ma-bernardston;Town;TRUE;2036;MA;
+Sutton;us-ma;us-ma-sutton;Town;TRUE;9357;MA;
+Swansea;us-ma;us-ma-swansea;Town;TRUE;17158;MA;https://www.swanseama.gov/government/board_of_health/index.php
+Templeton;us-ma;us-ma-templeton;Town;TRUE;8157;MA;http://www.templeton1.org
+Tewksbury;us-ma;us-ma-tewksbury;Town;TRUE;31089;MA;http://www.tewksbury.info
+Tisbury;us-ma;us-ma-tisbury;Town;TRUE;4809;MA;
+Tolland;us-ma;us-ma-tolland;Town;TRUE;447;MA;
+Acushnet;us-ma;us-ma-acushnet;Town;TRUE;10560;MA;
+Truro;us-ma;us-ma-truro;Town;TRUE;1627;MA;https://www.truro-ma.gov/health-department
+Tyngsborough;us-ma;us-ma-tyngsborough;Town;TRUE;12371;MA;
+Tyringham;us-ma;us-ma-tyringham;Town;TRUE;484;MA;https://www.tyringham-ma.gov/board-health
+Uxbridge;us-ma;us-ma-uxbridge;Town;TRUE;14228;MA;https://www.uxbridge-ma.gov/board-health
+Wales;us-ma;us-ma-wales;Town;TRUE;1957;MA;
+Billerica;us-ma;us-ma-billerica;Town;TRUE;41708;MA;
+Wareham;us-ma;us-ma-wareham;Town;TRUE;23192;MA;
+Warwick;us-ma;us-ma-warwick;Town;TRUE;814;MA;
+Washington;us-ma;us-ma-washington-town;Town;TRUE;454;MA;https://www.washington-ma.com/boh.html
+Wayland;us-ma;us-ma-wayland;Town;TRUE;13821;MA;
+Wellfleet;us-ma;us-ma-wellfleet;Town;TRUE;4352;MA;
+Wendell;us-ma;us-ma-wendell;Town;TRUE;847;MA;https://www.wendellmass.us/governance/board-of-health.html
+Blackstone;us-ma;us-ma-blackstone;Town;TRUE;9195;MA;
+Wenham;us-ma;us-ma-wenham;Town;TRUE;4933;MA;
+West Boylston;us-ma-cmrpha;us-ma-west-boylston;Town;TRUE;7695;MA;
+West Bridgewater;us-ma;us-ma-west-bridgewater;Town;TRUE;7648;MA;
+West Newbury;us-ma;us-ma-west-newbury;Town;TRUE;4521;MA;
+West Stockbridge;us-ma;us-ma-west-stockbridge;Town;TRUE;1220;MA;
+West Tisbury;us-ma;us-ma-west-tisbury;Town;TRUE;2941;MA;http://westtisbury-ma.gov
+Westford;us-ma;us-ma-westford;Town;TRUE;24524;MA;http://www.westfordma.gov/health
+Westhampton;us-ma;us-ma-westhampton;Town;TRUE;1519;MA;
+Westminster;us-ma;us-ma-westminster;Town;TRUE;8220;MA;
+Weston;us-ma;us-ma-weston;Town;TRUE;11759;MA;http://www.weston.org/
+Westport;us-ma;us-ma-westport;Town;TRUE;16330;MA;http://www.westport-ma.com/health/index.html
+Westwood;us-ma;us-ma-westwood;Town;TRUE;16149;MA;http://www.townhall.westwood.ma.us
+Whately;us-ma;us-ma-whately;Town;TRUE;1736;MA;https://www.whately.org/board-healthfoothills-health-district/agenda/board-health-19
+Whitman;us-ma;us-ma-whitman;Town;TRUE;15146;MA;http://www.whitman-ma.gov/health.htm
+Bolton;us-ma-nashoba;us-ma-bolton;Town;TRUE;5653;MA;
+Williamsburg;us-ma;us-ma-williamsburg;Town;TRUE;2745;MA;https://www.burgy.org/board-health
+Windsor;us-ma;us-ma-windsor;Town;TRUE;1030;MA;https://www.windsormass.com/board-of-health
+Worthington;us-ma;us-ma-worthington;Town;TRUE;971;MA;http://www.worthington-ma.us
+Wrentham;us-ma;us-ma-wrentham;Town;TRUE;12173;MA;http://www.wrentham.ma.us
+Yarmouth;us-ma;us-ma-yarmouth;Town;TRUE;25017;MA;
+Boxborough;us-ma-nashoba;us-ma-boxborough;Town;TRUE;5462;MA;https://www.boxborough-ma.gov/292/Board-of-Health
+Boylston;us-ma;us-ma-boylston;Town;TRUE;4855;MA;
+Brimfield;us-ma;us-ma-brimfield;Town;TRUE;3699;MA;https://www.brimfieldma.org/board-health
+Buckland;us-ma;us-ma-buckland;Town;TRUE;2004;MA;https://www.town.buckland.ma.us/board-health
+Canton;us-ma;us-ma-canton;Town;TRUE;24293;MA;
+Carlisle;us-ma;us-ma-carlisle;Town;TRUE;5209;MA;http://www.carlislema.gov
+Carver;us-ma;us-ma-carver;Town;TRUE;11641;MA;
+Charlemont;us-ma;us-ma-charlemont;Town;TRUE;1064;MA;https://charlemont-ma.us/p/51/Board-of-Health
+Charlton;us-ma;us-ma-charlton;Town;TRUE;13338;MA;
+Chelmsford;us-ma;us-ma-chelmsford;Town;TRUE;36182;MA;http://www.townhall.chelmsford.ma.us
+Alford;us-ma;us-ma-alford;Town;TRUE;450;MA;
+Chesterfield;us-ma;us-ma-chesterfield;Town;TRUE;996;MA;
+Chilmark;us-ma;us-ma-chilmark;Town;TRUE;1561;MA;https://www.chilmarkma.gov/board-health
+Clarksburg;us-ma;us-ma-clarksburg;Town;TRUE;1713;MA;
+Cohasset;us-ma;us-ma-cohasset;Town;TRUE;8330;MA;http://cohasset.com
+Colrain;us-ma;us-ma-colrain;Town;TRUE;1740;MA;
+Concord;us-ma;us-ma-concord;Town;TRUE;18265;MA;
+Conway;us-ma;us-ma-conway;Town;TRUE;1773;MA;
+Cummington;us-ma;us-ma-cummington;Town;TRUE;975;MA;
+Dalton;us-ma;us-ma-dalton;Town;TRUE;6332;MA;
+Dartmouth;us-ma;us-ma-dartmouth;Town;TRUE;32366;MA;
+Dighton;us-ma;us-ma-dighton;Town;TRUE;8083;MA;
+Douglas;us-ma;us-ma-douglas;Town;TRUE;9024;MA;
+Dracut;us-ma;us-ma-dracut;Town;TRUE;32291;MA;http://dracutma.gov
+Dudley;us-ma;us-ma-dudley;Town;TRUE;11885;MA;
+Dunstable;us-ma-nashoba;us-ma-dunstable;Town;TRUE;3359;MA;http://www.dunstable-ma.gov
+East Bridgewater;us-ma;us-ma-east-bridgewater;Town;TRUE;14382;MA;http://ebmass.com
+East Longmeadow;us-ma;us-ma-east-longmeadow;Town;TRUE;16361;MA;http://www.eastlongmeadow.org
+Eastham;us-ma;us-ma-eastham;Town;TRUE;5724;MA;
+Easton;us-ma;us-ma-easton;Town;TRUE;25021;MA;
+Egremont;us-ma;us-ma-egremont;Town;TRUE;1471;MA;
+Fairhaven;us-ma;us-ma-fairhaven;Town;TRUE;15899;MA;
+Florida;us-ma;us-ma-florida;Town;TRUE;796;MA;
+Massachusetts;us;us-ma;State;TRUE;6892503;MA;
+All Massachusetts;;us-ma-all;Summary;;;MA;
+Amesbury;us-ma;us-ma-amesbury;City;TRUE;17279;MA;http://www.ci.amesbury.ma.us
+Central Massachusetts Regional Public Health Alliance;us-ma;us-ma-cmrpha;Group;TRUE;272384;MA;http://www.worcesterma.gov/public-health/regional-public-health
+All Central Massachusetts Regional Public Health Alliance;;us-ma-cmrpha-all;Summary;;;MA;
+Easthampton;us-ma;us-ma-easthampton;City;TRUE;16136;MA;
+Methuen;us-ma;us-ma-methuen-city;City;TRUE;52812;MA;https://www.cityofmethuen.net/health-division
+Nashoba Associated Boards of Health;us-ma;us-ma-nashoba;Group;TRUE;119540;MA;http://www.nashoba.org
+All Nashoba Associated Boards of Health;;us-ma-nashoba-all;Summary;;;MA;
+Quabbin HD;us-ma;us-ma-quabbin;Group;TRUE;26696;MA;https://quabbinhealthdistrict.com
+All Quabbin HD;;us-ma-quabbin-all;Summary;;;MA;
+Tri-Town HD;us-ma;us-ma-tri-town;Group;TRUE;12901;MA;http://tritownhealth.org
+All Tri-Town HD;;us-ma-tri-town-all;Summary;;;MA;
+Watertown;us-ma;us-ma-watertown-city;City;TRUE;35181;MA;http://watertown-ma.gov

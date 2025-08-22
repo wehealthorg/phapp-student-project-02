@@ -1,0 +1,27 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Apache County;us-az;us-az-apache;County;TRUE;71887;AZ;
+Cochise County;us-az;us-az-cochise;County;TRUE;125922;AZ;
+Coconino County;us-az;us-az-coconino;County;TRUE;143476;AZ;
+Gila County;us-az;us-az-gila;County;TRUE;54018;AZ;
+Graham County;us-az;us-az-graham;County;TRUE;38837;AZ;
+Greenlee County;us-az;us-az-greenlee;County;TRUE;9498;AZ;
+La Paz County;us-az;us-az-la-paz;County;TRUE;21108;AZ;
+Maricopa County;us-az;us-az-maricopa;County;TRUE;4485414;AZ;
+Mohave County;us-az;us-az-mohave;County;TRUE;212181;AZ;
+Navajo County;us-az;us-az-navajo;County;TRUE;110924;AZ;
+Pima County;us-az;us-az-pima;County;TRUE;1047279;AZ;
+Pinal County;us-az;us-az-pinal;County;TRUE;462789;AZ;
+Santa Cruz County;us-az;us-az-santa-cruz;County;TRUE;46498;AZ;
+Yavapai County;us-az;us-az-yavapai;County;TRUE;235099;AZ;
+Yuma County;us-az;us-az-yuma;County;TRUE;213787;AZ;
+Arizona;us;us-az;State;TRUE;7278717;AZ;
+*PS 2023;us-az;us-az-ps-2023-test;County;;;AZ;
+All Arizona;;us-az-all;Summary;;;AZ;
+*QA Community;us-az;us-az-test;County;;;AZ;
+*QA Icons;us-az;us-az-icons-test;County;;;AZ;
+*QA Pima County;us-az;us-az-pima-test;County;;;AZ;
+Academy Village;us-az;us-az-academy-village;Senior Living;;;AZ;
+Arizona State University;us-az;us-az-asu;University;PRAWDA;;AZ;
+Fort Apache Indian Reservation;us-az;us-az-fair;Tribal Nation;;;AZ;
+Northern Arizona University;us-az;us-az-nau;University;PRAWDA;;AZ;
+University of Arizona;us-az;us-az-uoa;University;PRAWDA;;AZ;

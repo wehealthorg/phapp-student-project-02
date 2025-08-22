@@ -1,0 +1,66 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Alameda County;us-ca;us-ca-alameda;County;TRUE;1671329;CA;
+Alpine County;us-ca;us-ca-alpine;County;TRUE;1129;CA;
+Amador County;us-ca;us-ca-amador;County;TRUE;39752;CA;
+Butte County;us-ca;us-ca-butte;County;TRUE;219186;CA;
+Calaveras County;us-ca;us-ca-calaveras;County;TRUE;45905;CA;
+Colusa County;us-ca;us-ca-colusa;County;TRUE;21547;CA;
+Contra Costa County;us-ca;us-ca-contra-costa;County;TRUE;1153526;CA;
+Del Norte County;us-ca;us-ca-del-norte;County;TRUE;27812;CA;
+El Dorado County;us-ca;us-ca-el-dorado;County;TRUE;192843;CA;
+Fresno County;us-ca;us-ca-fresno;County;TRUE;999101;CA;
+Glenn County;us-ca;us-ca-glenn;County;TRUE;28393;CA;
+Humboldt County;us-ca;us-ca-humboldt;County;TRUE;135558;CA;
+Imperial County;us-ca;us-ca-imperial;County;TRUE;181215;CA;
+Inyo County;us-ca;us-ca-inyo;County;TRUE;18039;CA;
+Kern County;us-ca;us-ca-kern;County;TRUE;900202;CA;
+Kings County;us-ca;us-ca-kings;County;TRUE;152940;CA;
+Lake County;us-ca;us-ca-lake;County;TRUE;64386;CA;
+Lassen County;us-ca;us-ca-lassen;County;TRUE;30573;CA;
+Los Angeles County;us-ca;us-ca-la;County;TRUE;10039107;CA;
+Madera County;us-ca;us-ca-madera;County;TRUE;157327;CA;
+Marin County;us-ca;us-ca-marin;County;TRUE;258826;CA;
+Mariposa County;us-ca;us-ca-mariposa;County;TRUE;17203;CA;
+Mendocino County;us-ca;us-ca-mendocino;County;TRUE;86749;CA;
+Merced County;us-ca;us-ca-merced;County;TRUE;277680;CA;
+Modoc County;us-ca;us-ca-modoc;County;TRUE;8841;CA;
+Mono County;us-ca;us-ca-mono;County;TRUE;14444;CA;
+Monterey County;us-ca;us-ca-monterey;County;TRUE;434061;CA;
+Napa County;us-ca;us-ca-napa;County;TRUE;137744;CA;
+Nevada County;us-ca;us-ca-nevada;County;TRUE;99755;CA;
+Orange County;us-ca;us-ca-orange;County;TRUE;3175692;CA;
+Placer County;us-ca;us-ca-placer;County;TRUE;398329;CA;
+Plumas County;us-ca;us-ca-plumas;County;TRUE;18807;CA;
+Riverside County;us-ca;us-ca-riverside;County;TRUE;2470546;CA;
+Sacramento County;us-ca;us-ca-sacramento;County;TRUE;1552058;CA;
+San Benito County;us-ca;us-ca-san-benito;County;TRUE;62808;CA;
+San Bernardino County;us-ca;us-ca-san-bernardino;County;TRUE;2180085;CA;
+San Diego County;us-ca;us-ca-sd;County;TRUE;3338330;CA;
+San Francisco County;us-ca;us-ca-sf;County;TRUE;881549;CA;
+San Joaquin County;us-ca;us-ca-san-joaquin;County;TRUE;762148;CA;
+San Luis Obispo County;us-ca;us-ca-slo;County;TRUE;283111;CA;
+San Mateo County;us-ca;us-ca-san-mateo;County;TRUE;766573;CA;
+Santa Barbara County;us-ca;us-ca-santa-barbara;County;TRUE;446499;CA;
+Santa Clara County;us-ca;us-ca-santa-clara;County;TRUE;1927852;CA;
+Santa Cruz County;us-ca;us-ca-santa-cruz;County;TRUE;273213;CA;
+Shasta County;us-ca;us-ca-shasta;County;TRUE;180080;CA;
+Sierra County;us-ca;us-ca-sierra;County;TRUE;3005;CA;
+Siskiyou County;us-ca;us-ca-siskiyou;County;TRUE;43539;CA;
+Solano County;us-ca;us-ca-solano;County;TRUE;447643;CA;
+Sonoma County;us-ca;us-ca-sonoma;County;TRUE;494336;CA;
+Stanislaus County;us-ca;us-ca-stanislaus;County;TRUE;550660;CA;
+Sutter County;us-ca;us-ca-sutter;County;TRUE;96971;CA;
+Tehama County;us-ca;us-ca-tehama;County;TRUE;65084;CA;
+Trinity County;us-ca;us-ca-trinity;County;TRUE;12285;CA;
+Tulare County;us-ca;us-ca-tulare;County;TRUE;466195;CA;
+Tuolumne County;us-ca;us-ca-tuolumne;County;TRUE;54478;CA;
+Ventura County;us-ca;us-ca-ventura;County;TRUE;846006;CA;
+Yolo County;us-ca;us-ca-yolo;County;TRUE;220500;CA;
+Yuba County;us-ca;us-ca-yuba;County;TRUE;78668;CA;
+Berkeley;us-ca;us-ca-berkeley;City;TRUE;121385;CA;https://www.cityofberkeley.info/publichealth/
+Long Beach;us-ca;us-ca-long-beach;City;TRUE;462293;CA;http://www.longbeach.gov/health/
+Pasadena;us-ca;us-ca-pasadena;City;TRUE;137554;CA;http://www.cityofpasadena.net/PublicHealth/
+Vernon;us-ca;us-ca-vernon;City;TRUE;329;CA;https://www.cityofvernon.org/government/health
+California;us;us-ca;State;TRUE;39512223;CA;
+All California;;us-ca-all;Summary;;;CA;
+UCSF;us-ca;us-ca-ucsf;Hospital;;;CA;

@@ -1,0 +1,92 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Adams County;us-wi;us-wi-adams;County;TRUE;20220;WI;
+Ashland County;us-wi;us-wi-ashland;County;TRUE;15562;WI;
+Barron County;us-wi;us-wi-barron;County;TRUE;45244;WI;
+Bayfield County;us-wi;us-wi-bayfield;County;TRUE;15036;WI;
+Brown County;us-wi;us-wi-brown;County;TRUE;264542;WI;
+Buffalo County;us-wi;us-wi-buffalo;County;TRUE;13031;WI;
+Burnett County;us-wi;us-wi-burnett;County;TRUE;15414;WI;
+Calumet County;us-wi;us-wi-calumet;County;TRUE;50089;WI;
+Chippewa County;us-wi;us-wi-chippewa;County;TRUE;64658;WI;
+Clark County;us-wi;us-wi-clark;County;TRUE;34774;WI;
+Columbia County;us-wi;us-wi-columbia;County;TRUE;57532;WI;
+Crawford County;us-wi;us-wi-crawford;County;TRUE;16131;WI;
+Dane County;us-wi;us-wi-dane;County;TRUE;546695;WI;
+Dodge County;us-wi;us-wi-dodge;County;TRUE;87839;WI;
+Door County;us-wi;us-wi-door;County;TRUE;27668;WI;
+Douglas County;us-wi;us-wi-douglas;County;TRUE;43150;WI;
+Dunn County;us-wi;us-wi-dunn;County;TRUE;45368;WI;
+Eau Claire County;us-wi;us-wi-eau-claire;County;TRUE;104646;WI;
+Florence County;us-wi;us-wi-florence;County;TRUE;4295;WI;
+Fond du Lac County;us-wi;us-wi-fond-du-lac;County;TRUE;103403;WI;
+Forest County;us-wi;us-wi-forest;County;TRUE;9004;WI;
+Grant County;us-wi;us-wi-grant;County;TRUE;51439;WI;
+Green County;us-wi;us-wi-green;County;TRUE;36960;WI;
+Green Lake County;us-wi;us-wi-green-lake;County;TRUE;18913;WI;
+Iowa County;us-wi;us-wi-iowa;County;TRUE;23678;WI;
+Iron County;us-wi;us-wi-iron;County;TRUE;5687;WI;
+Jackson County;us-wi;us-wi-jackson;County;TRUE;20643;WI;
+Jefferson County;us-wi;us-wi-jefferson;County;TRUE;84769;WI;
+Juneau County;us-wi;us-wi-juneau;County;TRUE;26687;WI;
+Kenosha County;us-wi;us-wi-kenosha;County;TRUE;169561;WI;
+Kewaunee County;us-wi;us-wi-kewaunee;County;TRUE;20434;WI;
+La Crosse County;us-wi;us-wi-la-crosse;County;TRUE;118016;WI;
+Lafayette County;us-wi;us-wi-lafayette;County;TRUE;16665;WI;
+Langlade County;us-wi;us-wi-langlade;County;TRUE;19189;WI;
+Lincoln County;us-wi;us-wi-lincoln;County;TRUE;27593;WI;
+Manitowoc County;us-wi;us-wi-manitowoc;County;TRUE;78981;WI;
+Marathon County;us-wi;us-wi-marathon;County;TRUE;135692;WI;
+Marinette County;us-wi;us-wi-marinette;County;TRUE;40350;WI;
+Marquette County;us-wi;us-wi-marquette;County;TRUE;15574;WI;
+Menominee County;us-wi-shawano-menominee;us-wi-menominee;County;TRUE;4556;WI;
+Milwaukee County;us-wi;us-wi-milwaukee;County;TRUE;945726;WI;
+Monroe County;us-wi;us-wi-monroe;County;TRUE;46253;WI;
+Oconto County;us-wi;us-wi-oconto;County;TRUE;37930;WI;
+Oneida County;us-wi;us-wi-oneida;County;TRUE;35595;WI;
+Outagamie County;us-wi;us-wi-outagamie;County;TRUE;187885;WI;
+Ozaukee County;us-wi;us-wi-ozaukee;County;TRUE;89221;WI;
+Pepin County;us-wi;us-wi-pepin;County;TRUE;7287;WI;
+Pierce County;us-wi;us-wi-pierce;County;TRUE;42754;WI;
+Polk County;us-wi;us-wi-polk;County;TRUE;43783;WI;
+Portage County;us-wi;us-wi-portage;County;TRUE;70772;WI;
+Price County;us-wi;us-wi-price;County;TRUE;13351;WI;
+Racine County;us-wi;us-wi-racine;County;TRUE;196311;WI;
+Richland County;us-wi;us-wi-richland;County;TRUE;17252;WI;
+Rock County;us-wi;us-wi-rock;County;TRUE;163354;WI;
+Rusk County;us-wi;us-wi-rusk;County;TRUE;14178;WI;
+St. Croix County;us-wi;us-wi-st-croix;County;TRUE;90687;WI;
+Sauk County;us-wi;us-wi-sauk;County;TRUE;64442;WI;
+Sawyer County;us-wi;us-wi-sawyer;County;TRUE;16558;WI;
+Shawano County;us-wi-shawano-menominee;us-wi-shawano;County;TRUE;40899;WI;
+Sheboygan County;us-wi;us-wi-sheboygan;County;TRUE;115340;WI;
+Taylor County;us-wi;us-wi-taylor;County;TRUE;20343;WI;
+Trempealeau County;us-wi;us-wi-trempealeau;County;TRUE;29649;WI;
+Vernon County;us-wi;us-wi-vernon;County;TRUE;30822;WI;
+Vilas County;us-wi;us-wi-vilas;County;TRUE;22195;WI;
+Walworth County;us-wi;us-wi-walworth;County;TRUE;103868;WI;
+Washburn County;us-wi;us-wi-washburn;County;TRUE;15720;WI;
+Washington County;us-wi;us-wi-washington;County;TRUE;136034;WI;
+Waukesha County;us-wi;us-wi-waukesha;County;TRUE;404198;WI;
+Waupaca County;us-wi;us-wi-waupaca;County;TRUE;50990;WI;
+Waushara County;us-wi;us-wi-waushara;County;TRUE;24443;WI;
+Winnebago County;us-wi;us-wi-winnebago;County;TRUE;171907;WI;
+Wood County;us-wi;us-wi-wood;County;TRUE;72999;WI;
+Appleton;us-wi;us-wi-appleton;City;TRUE;75133;WI;https://www.appleton.org/residents/health
+Cudahy;us-wi;us-wi-cudahy;City;TRUE;18087;WI;https://www.cudahy-wi.gov/departments/health/index.php
+De Pere;us-wi;us-wi-de-pere;City;TRUE;25373;WI;https://www.de-pere.org/department/?structureid=12
+Franklin;us-wi;us-wi-franklin;City;TRUE;36513;WI;https://www.franklinwi.gov/Home/Departments/Health.htm
+Greendale;us-wi;us-wi-greendale;City;TRUE;14722;WI;http://www.greendale.org/departments/health_department/index.php
+Greenfield;us-wi;us-wi-greenfield;City;TRUE;37521;WI;http://www.greenfieldwi.us/370/Health-Services
+Hales Corners;us-wi;us-wi-hales-corners;City;TRUE;7677;WI;https://www.halescorners.org/index.asp?SEC=2A588459-636E-4FAA-8B09-B3778E15131F
+Menasha;us-wi;us-wi-menasha;City;TRUE;18125;WI;http://www.cityofmenasha-wi.gov/
+Milwaukee;us-wi;us-wi-milwaukee-city;City;TRUE;573299;WI;http://city.milwaukee.gov/Health
+Oak Creek;us-wi;us-wi-oak-creek;City;TRUE;36286;WI;http://www.oakcreekwi.org/your-government/departments/health-department
+Racine;us-wi;us-wi-racine-city;City;TRUE;77453;WI;https://www.cityofracine.org/Health/
+South Milwaukee;us-wi;us-wi-south-milwaukee;City;TRUE;20678;WI;https://smwi.org/181/Health-Department
+Watertown;us-wi;us-wi-watertown;City;TRUE;22978;WI;http://www.ci.watertown.wi.us/document_centers/health/index.php
+Wauwatosa;us-wi;us-wi-wauwatosa;City;TRUE;47919;WI;https://www.wauwatosa.net/government/departments/health
+West Allis;us-wi;us-wi-west-allis;City;TRUE;59907;WI;https://www.westalliswi.gov/184/Health
+Wisconsin;us;us-wi;State;TRUE;5822434;WI;
+All Wisconsin;;us-wi-all;Summary;;;WI;
+Shawano-Menominee Counties HD;us-wi;us-wi-shawano-menominee;Group;TRUE;45455;WI;http://www.co.shawano.wi.us/departments/?department=5c6edb95d748
+All Shawano-Menominee Counties HD;;us-wi-shawano-menominee-all;Summary;;;WI;

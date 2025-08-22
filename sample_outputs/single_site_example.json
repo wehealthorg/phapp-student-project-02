@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "total_resources": 12,
+    "by_category": {
+      "CONTACT_INFO": 4,
+      "LOCATION": 3,
+      "FACILITY": 5
+    },
+    "by_tag": {
+      "general": 8,
+      "vaccination": 2,
+      "pediatric": 1,
+      "emergency": 1
+    },
+    "crawl_info": {
+      "url": "https://www.acphd.org",
+      "timestamp": "2024-12-15T14:30:22.123456",
+      "student_name": "Example Student"
+    }
+  },
+  "detailed_results": {
+    "url": "https://www.acphd.org",
+    "timestamp": "2024-12-15T14:30:22.123456",
+    "resources": [
+      {
+        "category": "CONTACT_INFO",
+        "type": "phone_number",
+        "value": "510-267-8000",
+        "tags": ["general"],
+        "context": "main contact information",
+        "confidence": 0.9
+      },
+      {
+        "category": "CONTACT_INFO", 
+        "type": "phone_number",
+        "value": "510-267-8015",
+        "tags": ["vaccination", "flu"],
+        "context": "flu shot appointment line",
+        "confidence": 0.8
+      },
+      {
+        "category": "CONTACT_INFO",
+        "type": "phone_number", 
+        "value": "510-267-8911",
+        "tags": ["emergency", "crisis_services"],
+        "context": "emergency services hotline",
+        "confidence": 0.9
+      },
+      {
+        "category": "CONTACT_INFO",
+        "type": "phone_number",
+        "value": "510-267-8020",
+        "tags": ["pediatric"],
+        "context": "children's health services",
+        "confidence": 0.7
+      },
+      {
+        "category": "LOCATION",
+        "type": "address",
+        "value": "1000 San Leandro Blvd, San Leandro, CA 94577",
+        "tags": ["general"],
+        "context": "main office location",
+        "confidence": 0.9
+      },
+      {
+        "category": "LOCATION", 
+        "type": "address",
+        "value": "2000 Embarcadero Cove, Oakland, CA 94606",
+        "tags": ["vaccination"],
+        "context": "vaccination clinic location", 
+        "confidence": 0.8
+      },
+      {
+        "category": "LOCATION",
+        "type": "address", 
+        "value": "3900 Lakeside Dr, Oakland, CA 94612",
+        "tags": ["pediatric"],
+        "context": "children's clinic address",
+        "confidence": 0.7
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Alameda County Medical Center",
+        "tags": ["hospital", "emergency"],
+        "context": "main medical facility",
+        "confidence": 0.9
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name", 
+        "value": "Highland Community Health Center",
+        "tags": ["clinic", "community_health"],
+        "context": "community clinic name",
+        "confidence": 0.8
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Children's Health Clinic",
+        "tags": ["pediatric", "clinic"],
+        "context": "pediatric facility name",
+        "confidence": 0.8
+      },
+      {
+        "category": "FACILITY", 
+        "type": "facility_name",
+        "value": "East Oakland Health Center",
+        "tags": ["clinic", "community_health"],
+        "context": "satellite clinic name",
+        "confidence": 0.7
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Alameda County Public Health Laboratory",
+        "tags": ["testing", "laboratory"],
+        "context": "testing facility name", 
+        "confidence": 0.6
+      }
+    ]
+  }
+}
