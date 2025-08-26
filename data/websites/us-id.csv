@@ -1,4 +1,10 @@
 name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Central District Health (Region 4);us-id;us-id-cdh;Group;TRUE;528321;ID;http://www.cdh.idaho.gov
+Eastern Idaho Public HD (Region 7);us-id;us-id-eiph;Group;TRUE;227268;ID;http://www.EIPH.Idaho.gov
+North Central District;us-id;us-id-ncd;Group;TRUE;109777;ID;http://www.idahopublichealth.com
+South Central Public HD (PHD 5);us-id;us-id-phd5;Group;TRUE;201031;ID;https://phd5.idaho.gov/
+Southeastern Idaho Public Health;us-id;us-id-sdhd;Group;TRUE;176584;ID;https://www.siphidaho.org/
+Southwest District HD (Region 3);us-id;us-id-swdh;Group;TRUE;298223;ID;http://www.swdh.org
 Ada County;us-id-cdh;us-id-ada;County;TRUE;481587;ID;
 Adams County;us-id-swdh;us-id-adams;County;TRUE;4294;ID;
 Bannock County;us-id-sdhd;us-id-bannock;County;TRUE;87808;ID;
@@ -45,17 +51,11 @@ Valley County;us-id-cdh;us-id-valley;County;TRUE;11392;ID;
 Washington County;us-id-swdh;us-id-washington;County;TRUE;10194;ID;
 Idaho;us;us-id;State;TRUE;1787065;ID;
 All Idaho;;us-id-all;Summary;;;ID;
-Central District Health (Region 4);us-id;us-id-cdh;Group;TRUE;528321;ID;http://www.cdh.idaho.gov
 All Central District Health (Region 4);;us-id-cdh-all;Summary;;;ID;
-Eastern Idaho Public HD (Region 7);us-id;us-id-eiph;Group;TRUE;227268;ID;http://www.EIPH.Idaho.gov
 All Eastern Idaho Public HD (Region 7);;us-id-eiph-all;Summary;;;ID;
-North Central District;us-id;us-id-ncd;Group;TRUE;109777;ID;http://www.idahopublichealth.com
 All North Central District;;us-id-ncd-all;Summary;;;ID;
-Panhandle HD (Region 1);us-id;us-id-panhandle;Group;TRUE;245861;ID;http://www.panhandlehealthdistrict.org/
+Panhandle HD (Region 1);us-id;us-id-panhandle;Group;TRUE;245861;ID;
 All Panhandle HD (Region 1);;us-id-panhandle-all;Summary;;;ID;
-South Central Public HD (PHD 5);us-id;us-id-phd5;Group;TRUE;201031;ID;https://phd5.idaho.gov
 All South Central Public HD (PHD 5);;us-id-phd5-all;Summary;;;ID;
-Southeastern Idaho Public Health;us-id;us-id-sdhd;Group;TRUE;176584;ID;http://www.sdhdidaho.org
 All Southeastern Idaho Public Health;;us-id-sdhd-all;Summary;;;ID;
-Southwest District HD (Region 3);us-id;us-id-swdh;Group;TRUE;298223;ID;http://www.swdh.org
 All Southwest District HD (Region 3);;us-id-swdh-all;Summary;;;ID;

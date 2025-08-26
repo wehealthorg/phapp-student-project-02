@@ -1,14 +1,23 @@
 name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Carroll County;us-nh;us-nh-carroll;County;TRUE;48910;NH;http://www.c3ph.org/
+Strafford County;us-nh;us-nh-strafford;County;TRUE;130633;NH;http://www.scphn.org/
+Sullivan County;us-nh;us-nh-sullivan;County;TRUE;43146;NH;https://www.sullivanhealth.org/
+Portsmouth;us-nh-sea-coast;us-nh-portsmouth;City;TRUE;22138;NH;https://www.cityofportsmouth.com/health
+Alexandria;us-nh-cnhhp;us-nh-alexandria;Town;TRUE;1911;NH;http://alexandrianh.com/departments/health-officer/
+Capital Area Public Health Network;us-nh;us-nh-capital-area;Group;TRUE;136130;NH;http://www.capitalareaphn.org/
+Central New Hampshire Public Health Network;us-nh;us-nh-cnhhp;Group;TRUE;30890;NH;https://www.cnhhp.org/
+Greater Sullivan County Public Health Network;us-nh;us-nh-greater-sullivan;Group;TRUE;45965;NH;https://gscphn.org/
+Greater Monadnock Public Health Network;us-nh;us-nh-monadnock;Group;TRUE;101004;NH;https://healthymonadnockalliance.org/
+Seacoast Public Health Network;us-nh;us-nh-sea-coast;Group;TRUE;148569;NH;https://www.seacoastphn.org/
+South Central New Hampshire Public Health Network;us-nh;us-nh-south-central;Group;TRUE;146152;NH;http://southcentralphn.org/
+The Public Health Council of the Upper Valley (PHC);us-nh;us-nh-uv;Group;TRUE;87063;NH;https://uvpublichealth.org/
 Belknap County;us-nh;us-nh-belknap;County;TRUE;61303;NH;
-Carroll County;us-nh;us-nh-carroll;County;TRUE;48910;NH;
 Cheshire County;us-nh-monadnock;us-nh-cheshire;County;TRUE;76085;NH;
 Coos County;us-nh;us-nh-coos;County;TRUE;31563;NH;
 Grafton County;us-nh-cnhhp;us-nh-grafton;County;TRUE;89886;NH;
 Hillsborough County;us-nh;us-nh-hillsborough;County;TRUE;417025;NH;
 Merrimack County;us-nh;us-nh-merrimack;County;TRUE;151391;NH;
 Rockingham County;us-nh;us-nh-rockingham;County;TRUE;309769;NH;
-Strafford County;us-nh;us-nh-strafford;County;TRUE;130633;NH;
-Sullivan County;us-nh;us-nh-sullivan;County;TRUE;43146;NH;
 Ashland;us-nh-cnhhp;us-nh-ashland;Town;;2239;NH;
 Bradford;us-nh-capital-area;us-nh-bradford;Town;;1565;NH;
 Bristol;us-nh-cnhhp;us-nh-bristol;Town;;3255;NH;
@@ -30,8 +39,8 @@ Lebanon;us-nh-uv;us-nh-lebanon;City;;14515;NH;
 Lincoln;us-nh-cnhhp;us-nh-lincoln;Town;;1474;NH;
 Londonderry;us-nh-south-central;us-nh-londonderry;Town;;25986;NH;
 Loudon;us-nh-capital-area;us-nh-loudon;Town;;5608;NH;
-Manchester;us-nh;us-nh-manchester;City;TRUE;115037;NH;http://www.ci.manchester.nh.us
-Nashua;us-nh;us-nh-nashua;City;TRUE;90943;NH;https://nashuanh.gov/497/Public-Health-Community-Services
+Manchester;us-nh;us-nh-manchester;City;TRUE;115037;NH;
+Nashua;us-nh;us-nh-nashua;City;TRUE;90943;NH;
 Newfields;us-nh-sea-coast;us-nh-newfields;Town;;1985;NH;
 New London;us-nh-greater-sullivan;us-nh-new-london;Town;;4389;NH;
 Newmarket;us-nh-sea-coast;us-nh-newmarket;Town;;9400;NH;
@@ -39,7 +48,6 @@ Newport;us-nh-greater-sullivan;us-nh-newport;Town;;6347;NH;
 Pittsfield;us-nh-capital-area;us-nh-pittsfield;Town;;4093;NH;
 Plainfield;us-nh-uv;us-nh-plainfield;Town;;2478;NH;
 Plymouth;us-nh-cnhhp;us-nh-plymouth;Town;;6599;NH;
-Portsmouth;us-nh-sea-coast;us-nh-portsmouth;City;TRUE;22138;NH;https://www.cityofportsmouth.com/health
 Raymond;us-nh-sea-coast;us-nh-raymond;Town;;10773;NH;
 Warner;us-nh-capital-area;us-nh-warner;Town;;2920;NH;
 Acworth;us-nh-greater-sullivan;us-nh-acworth;Town;;927;NH;
@@ -94,7 +102,6 @@ Woodstock;us-nh-cnhhp;us-nh-woodstock;Town;;1251;NH;
 Boscawen;us-nh-capital-area;us-nh-boscawen;Town;;3992;NH;
 Bow;us-nh-capital-area;us-nh-bow;Town;;8235;NH;
 Brentwood;us-nh-sea-coast;us-nh-brentwood;Town;;4538;NH;
-Alexandria;us-nh-cnhhp;us-nh-alexandria;Town;TRUE;1911;NH;http://alexandrianh.com/departments/health-officer/
 Bridgewater;us-nh-cnhhp;us-nh-bridgewater;Town;;1109;NH;
 Campton;us-nh-cnhhp;us-nh-campton;Town;;3366;NH;
 Canterbury;us-nh-capital-area;us-nh-canterbury;Town;;2316;NH;
@@ -120,17 +127,10 @@ Grantham;us-nh-uv;us-nh-grantham;Town;;3394;NH;
 Greenland;us-nh-sea-coast;us-nh-greenland;Town;;4052;NH;
 New Hampshire;us;us-nh;State;TRUE;1359711;NH;
 All New Hampshire;;us-nh-all;Summary;;;NH;
-Capital Area Public Health Network;us-nh;us-nh-capital-area;Group;TRUE;136130;NH;http://www.capitalareaphn.org/
 All Capital Area Public Health Network;;us-nh-capital-area-all;Summary;;;NH;
-Central New Hampshire Public Health Network;us-nh;us-nh-cnhhp;Group;TRUE;30890;NH;https://www.cnhhp.org/
 All Central New Hampshire Public Health Network;;us-nh-cnhhp-all;Summary;;;NH;
-Greater Sullivan County Public Health Network;us-nh;us-nh-greater-sullivan;Group;TRUE;45965;NH;https://gscphn.org/
 All Greater Sullivan County Public Health Network;;us-nh-greater-sullivan-all;Summary;;;NH;
-Greater Monadnock Public Health Network;us-nh;us-nh-monadnock;Group;TRUE;101004;NH;https://healthymonadnockalliance.org/
 All Greater Monadnock Public Health Network;;us-nh-monadnock-all;Summary;;;NH;
-Seacoast Public Health Network;us-nh;us-nh-sea-coast;Group;TRUE;148569;NH;https://www.seacoastphn.org/
 All Seacoast Public Health Network;;us-nh-sea-coast-all;Summary;;;NH;
-South Central New Hampshire Public Health Network;us-nh;us-nh-south-central;Group;TRUE;146152;NH;http://southcentralphn.org/
 All South Central New Hampshire Public Health Network;;us-nh-south-central-all;Summary;;;NH;
-The Public Health Council of the Upper Valley (PHC);us-nh;us-nh-uv;Group;TRUE;87063;NH;https://uvpublichealth.org/
 All The Public Health Council of the Upper Valley (PHC);;us-nh-uv-all;Summary;;;NH;

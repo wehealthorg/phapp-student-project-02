@@ -160,18 +160,18 @@ Weathersfield;us-vt-springfield;us-vt-weathersfield;Town;;2844;VT;
 West Windsor;us-vt-springfield;us-vt-west-windsor;Town;;1058;VT;
 Albany;us-vt-newport;us-vt-albany;Town;;1035;VT;
 Alburgh;us-vt-st-albans;us-vt-alburgh;Town;;1857;VT;
+Barre;us-vt-barre-hd;us-vt-barre;City;;8488;VT;https://www.healthvermont.gov/local/barre
 Arlington;us-vt-bennington-hd;us-vt-arlington;Town;;2761;VT;
+Bennington;us-vt-bennington-hd;us-vt-bennington-town;Town;;15338;VT;http://www.healthvermont.gov/local/bennington
 Barnet;us-vt-st-johnsbury-hd;us-vt-barnet;Town;;1534;VT;
-Barre;us-vt-barre-hd;us-vt-barre;City;;8488;VT;
 Barton;us-vt-newport;us-vt-barton;Town;;2849;VT;
-Bennington;us-vt-bennington-hd;us-vt-bennington-town;Town;;15338;VT;
 Benson;us-vt-rutland-hd;us-vt-benson;Town;;764;VT;
 Bethel;us-vt-wrj;us-vt-bethel;Town;;1850;VT;
+Brattleboro;us-vt-brattleboro;us-vt-brattleboro-town;Town;;12162;VT;http://www.healthvermont.gov/local/brattleboro
 Bradford;us-vt-wrj;us-vt-bradford;Town;;2791;VT;
+Burlington;us-vt-burlington;us-vt-burlington-town;City;;44646;VT;https://www.healthvermont.gov/local/burlington
 Brandon;us-vt-rutland-hd;us-vt-brandon;Town;;4114;VT;
-Brattleboro;us-vt-brattleboro;us-vt-brattleboro-town;Town;;12162;VT;
 Bristol;us-vt-middlebury;us-vt-bristol;Town;;3781;VT;
-Burlington;us-vt-burlington;us-vt-burlington-town;City;;44646;VT;
 Cabot;us-vt-barre-hd;us-vt-cabot;Town;;1638;VT;
 Cambridge;us-vt-morrisville;us-vt-cambridge;Town;;3809;VT;
 Canaan;us-vt-newport;us-vt-canaan;Town;;666;VT;
@@ -200,14 +200,14 @@ Jericho;us-vt-burlington;us-vt-jericho;Town;;5105;VT;
 Johnson;us-vt-morrisville;us-vt-johnson;Town;;3484;VT;
 Lowell;us-vt-newport;us-vt-lowell;Town;;1003;VT;
 Ludlow;us-vt-springfield;us-vt-ludlow;Town;;2003;VT;
+Middlebury;us-vt-middlebury;us-vt-middlebury-town;Town;;9123;VT;http://healthvermont.gov/local/district/Middlebury.aspx
 Manchester;us-vt-bennington-hd;us-vt-manchester;Town;;4488;VT;
 Marshfield;us-vt-barre-hd;us-vt-marshfield;Town;;1625;VT;
-Middlebury;us-vt-middlebury;us-vt-middlebury-town;Town;;9123;VT;
 Milton;us-vt-burlington;us-vt-milton;Town;;10720;VT;
 Montpelier;us-vt-barre-hd;us-vt-montpelier;City;;8030;VT;
+Newport;us-vt-newport;us-vt-newport-town;City;;4431;VT;http://healthvermont.gov/local/district/Newport.aspx
 Newbury;us-vt-st-johnsbury-hd;us-vt-newbury;Town;;2065;VT;
 Newfane;us-vt-brattleboro;us-vt-newfane;Town;;1663;VT;
-Newport;us-vt-newport;us-vt-newport-town;City;;4431;VT;
 Northfield;us-vt-barre-hd;us-vt-northfield;Town;;5927;VT;
 Norwich;us-vt-wrj;us-vt-norwich;Town;;3620;VT;
 Pittsford;us-vt-rutland-hd;us-vt-pittsford;Town;;2888;VT;
@@ -217,15 +217,15 @@ Putney;us-vt-brattleboro;us-vt-putney;Town;;2630;VT;
 Randolph;us-vt-wrj;us-vt-randolph;Town;;4791;VT;
 Readsboro;us-vt-bennington-hd;us-vt-readsboro;Town;;736;VT;
 Richford;us-vt-st-albans;us-vt-richford;Town;;2459;VT;
+Rutland;us-vt-rutland-hd;us-vt-rutland-town;City;;15819;VT;http://www.healthvermont.gov/local/rutland
+St. Albans;us-vt-bennington-hd;us-vt-st-albans-town;City;;6891;VT;https://www.healthvermont.gov/local/st-albans
 Richmond;us-vt-burlington;us-vt-richmond;Town;;4157;VT;
+St. Johnsbury;us-vt-bennington-hd;us-vt-st-johnsbury;Town;;7378;VT;http://www.healthvermont.gov/local/st-johnsbury
 Rochester;us-vt-wrj;us-vt-rochester;Town;;1299;VT;
-Rutland;us-vt-rutland-hd;us-vt-rutland-town;City;;15819;VT;
-St. Albans;us-vt-bennington-hd;us-vt-st-albans-town;City;;6891;VT;
 St. George;us-vt-bennington-hd;us-vt-st-george;Town;;815;VT;
-St. Johnsbury;us-vt-bennington-hd;us-vt-st-johnsbury;Town;;7378;VT;
+Springfield;us-vt-springfield;us-vt-springfield-town;Town;;9097;VT;http://www.healthvermont.gov/local/springfield
 Shelburne;us-vt-brattleboro;us-vt-shelburne;Town;;7751;VT;
 South Burlington;us-vt-st-albans;us-vt-south-burlington;City;;20241;VT;
-Springfield;us-vt-springfield;us-vt-springfield-town;Town;;9097;VT;
 Stowe;us-vt-morrisville;us-vt-stowe;Town;;5214;VT;
 Swanton;us-vt-st-albans;us-vt-swanton;Town;;6758;VT;
 Troy;us-vt-newport;us-vt-troy;Town;;1756;VT;
@@ -247,26 +247,26 @@ All Vermont;;us-vt-all;Summary;;;VT;
 Averill;us-vt-newport;us-vt-averill;City;;;VT;
 Barre Vermont HD;us-vt;us-vt-barre-hd;Group;TRUE;66925;VT;
 All Barre Vermont HD;;us-vt-barre-hd-all;Summary;;;VT;
-Bennington Vermont HD;us-vt;us-vt-bennington-hd;Group;TRUE;37347;VT;http://www.healthvermont.gov/local/bennington
+Bennington Vermont HD;us-vt;us-vt-bennington-hd;Group;TRUE;37347;VT;
 All Bennington Vermont HD;;us-vt-bennington-hd-all;Summary;;;VT;
-Brattleboro Vermont HD;us-vt;us-vt-brattleboro;Group;TRUE;25876;VT;http://www.healthvermont.gov/local/brattleboro
+Brattleboro Vermont HD;us-vt;us-vt-brattleboro;Group;TRUE;25876;VT;
 All Brattleboro Vermont HD;;us-vt-brattleboro-all;Summary;;;VT;
-Burlington Vermont HD;us-vt;us-vt-burlington;Group;TRUE;123458;VT;http://healthvermont.gov
+Burlington Vermont HD;us-vt;us-vt-burlington;Group;TRUE;123458;VT;
 All Burlington Vermont HD;;us-vt-burlington-all;Summary;;;VT;
-Middlebury Vermont HD;us-vt;us-vt-middlebury;Group;TRUE;28068;VT;http://healthvermont.gov/local/district/Middlebury.aspx
-All Middlebury Vermont HD;;us-vt-middlebury-all;Summary;;;VT;
 Morrisville Vermont HD;us-vt;us-vt-morrisville;Group;TRUE;32860;VT;https://www.healthvermont.gov/local/morrisville
+Middlebury Vermont HD;us-vt;us-vt-middlebury;Group;TRUE;28068;VT;
+All Middlebury Vermont HD;;us-vt-middlebury-all;Summary;;;VT;
 All Morrisville Vermont HD;;us-vt-morrisville-all;Summary;;;VT;
-Newport Vermont HD;us-vt;us-vt-newport;Group;TRUE;27878;VT;http://healthvermont.gov
+Newport Vermont HD;us-vt;us-vt-newport;Group;TRUE;27878;VT;
 All Newport Vermont HD;;us-vt-newport-all;Summary;;;VT;
-Rutland Vermont HD;us-vt;us-vt-rutland-hd;Group;TRUE;60744;VT;http://www.healthvermont.gov/local/rutland
+Rutland Vermont HD;us-vt;us-vt-rutland-hd;Group;TRUE;60744;VT;
 All Rutland Vermont HD;;us-vt-rutland-hd-all;Summary;;;VT;
-Springfield Vermont HD;us-vt;us-vt-springfield;Group;TRUE;24907;VT;http://www.healthvermont.gov/local/springfield
+Springfield Vermont HD;us-vt;us-vt-springfield;Group;TRUE;24907;VT;
 All Springfield Vermont HD;;us-vt-springfield-all;Summary;;;VT;
-St. Albans Vermont HD;us-vt;us-vt-st-albans;Group;TRUE;113886;VT;http://healthvermont.gov
+St. Albans Vermont HD;us-vt;us-vt-st-albans;Group;TRUE;113886;VT;
 All St. Albans Vermont HD;;us-vt-st-albans-all;Summary;;;VT;
-St. Johnsbury Vermont HD;us-vt;us-vt-st-johnsbury-hd;Group;TRUE;25809;VT;http://www.healthvermont.gov/local/st-johnsbury
+St. Johnsbury Vermont HD;us-vt;us-vt-st-johnsbury-hd;Group;TRUE;25809;VT;
+White River Junction Vermont HD;us-vt;us-vt-wrj;Group;TRUE;58430;VT;http://healthvermont.gov/local/district/wrj.aspx
 All St. Johnsbury Vermont HD;;us-vt-st-johnsbury-hd-all;Summary;;;VT;
 All The Public Health Council of the Upper Valley (PHC);;us-vt-uv-all;Summary;;;VT;
-White River Junction Vermont HD;us-vt;us-vt-wrj;Group;TRUE;58430;VT;http://healthvermont.gov
 All White River Junction Vermont HD;;us-vt-wrj-all;Summary;;;VT;
