@@ -21,23 +21,22 @@ class BatchHealthCrawler:
         Args:
             state_code: Two-letter state code (e.g., 'ca', 'or', 'tx')
         """
-        filename = f"../data/state_websites/us-{state_code.lower()}.csv"
+        filename = f"../data/websites/us-{state_code.lower()}.csv"
         websites = []
-        
         try:
             with open(filename, 'r', newline='', encoding='utf-8') as file:
-                reader = csv.DictReader(file)
+                reader = csv.DictReader(file, delimiter=';')
                 for row in reader:
+                    # Use columns from the current CSV format
                     websites.append({
-                        'county': row['county'],
-                        'department_name': row['department_name'],
-                        'website_url': row['website_url'],
-                        'population': row.get('population', 'Unknown')
+                        'name': row.get('name', 'Unknown'),
+                        'pha_url': row.get('pha_url', ''),
+                        'state_id': row.get('state_id', ''),
+                        'category': row.get('category', ''),
+                        'population': row.get('population_proper', 'Unknown')
                     })
-            
             print(f"Loaded {len(websites)} health departments for {state_code.upper()}")
             return websites
-            
         except FileNotFoundError:
             print(f"File not found: {filename}")
             return []
@@ -64,17 +63,18 @@ class BatchHealthCrawler:
         websites = websites[:max_sites]
         
         for i, site in enumerate(websites, 1):
-            print(f"\n[{i}/{len(websites)}] {site['county']} County")
-            print(f"Department: {site['department_name']}")
-            print(f"URL: {site['website_url']}")
+            print(f"\n[{i}/{len(websites)}] {site['name']}")
+            print(f"Category: {site['category']}")
+            print(f"URL: {site['pha_url']}")
             
             # Crawl the main page
-            results = self.crawler.crawl_page_with_categories(site['website_url'])
+            results = self.crawler.crawl_page_with_categories(site['pha_url'])
             
             # Add metadata
             results.update({
-                'county': site['county'],
-                'department_name': site['department_name'],
+                'name': site['name'],
+                'category': site['category'],
+                'state_id': site['state_id'],
                 'population': site['population'],
                 'crawled_at': datetime.now().isoformat()
             })
@@ -129,17 +129,17 @@ class BatchHealthCrawler:
         for category, count in category_counts.items():
             print(f"  {category}: {count}")
         
-        # Show which counties had the most resources
-        print(f"\nTop counties by resources found:")
-        county_counts = []
+        # Show which names had the most resources
+        print(f"\nTop organizations by resources found:")
+        name_counts = []
         for result in self.results:
             count = len(result.get('resources', []))
-            county_name = result.get('county', 'Unknown')
-            county_counts.append((county_name, count))
+            name = result.get('name', 'Unknown')
+            name_counts.append((name, count))
         
-        county_counts.sort(key=lambda x: x[1], reverse=True)
-        for county, count in county_counts[:5]:
-            print(f"  {county}: {count} resources")
+        name_counts.sort(key=lambda x: x[1], reverse=True)
+        for name, count in name_counts[:5]:
+            print(f"  {name}: {count} resources")
 
 # Example usage
 if __name__ == "__main__":
