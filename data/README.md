@@ -1,30 +1,45 @@
-# Health Department Website Data
 
-## Website Files
+# Data Folder
 
-Each `us-{state}.csv` file contains local health department websites for that state.
+This folder contains data files used for crawling and analysis.
+
+## websites/
+
+Contains CSV files for each US state, listing public health organizations and related metadata. Each file is named `us-XX.csv` where `XX` is the two-letter state code (e.g., `us-ca.csv` for California, `us-tx.csv` for Texas).
 
 ### CSV Format
-```csv
-county,department_name,website_url,population,last_updated
-Alameda,Alameda County Public Health Department,https://www.acphd.org,1671329,2024-01-15
-Los Angeles,Los Angeles County Department of Public Health,http://publichealth.lacounty.gov,10014009,2024-01-15
+
+The CSV files use semicolon (`;`) as the delimiter. The main columns are:
+
+- `name`: Name of the PHapp community (e.g., county, borough, or health department)
+- `parent_id`: Parent community (state or group)
+- `community_id`: Community identifier
+- `category`: Type of community (e.g., County, Borough, Town, Group)
+- `pha`: Whether community has a public health authority (TRUE/FALSE)
+- `population_proper`: Population served by the organization
+- `state_id`: Two-letter state code (e.g., CA, TX, NY)
+- `pha_url`: Website URL for the health department or organization
+
+Other columns may be present for additional metadata.
+
+### Example row
+
+```
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Benton County;us-ar-nw;us-ar-benton;County;TRUE;279141;AR;
 ```
 
-### Available States
-- `us-ca.csv` - California (58 counties)
-- `us-or.csv` - Oregon (36 counties) 
-- `us-tx.csv` - Texas (254 counties)
+Each row represents a public health organization in the state, with its website and relevant details.
 
 ### Usage in Your Crawler
 ```python
 import csv
 
-# Load a state's health departments
-with open('data/state_websites/us-ca.csv', 'r') as file:
-    reader = csv.DictReader(file)
+# Load a state's public health organizations
+with open('data/websites/us-ca.csv', 'r', encoding='utf-8') as file:
+    reader = csv.DictReader(file, delimiter=';')
     for row in reader:
-        print(f"Crawling {row['department_name']}: {row['website_url']}")
+        print(f"Crawling {row['name']}: {row['pha_url']}")
 ```
 
 ## Notes

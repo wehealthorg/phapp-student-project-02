@@ -7,10 +7,11 @@ health-crawler/
 ├── requirements.txt
 ├── data/
 │   ├── README.md
-│   └── state_websites/
+│   └── websites/
 │       ├── us-ca.csv
 │       ├── us-or.csv
-│       └── us-tx.csv
+│       ├── us-tx.csv
+│       └── ...
 ├── examples/
 │   ├── simple_example.py
 │   ├── categorized_example.py
